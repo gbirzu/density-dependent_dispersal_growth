@@ -1,0 +1,1 @@
+Number of generation:10000, Number of species:2, Population Size:1000, Growth rate:0.01, Growth cooperativity:0, Migration rate:0.01, Migration cooperativity:0.5, Number of demes:300, NoiseFlag:0
